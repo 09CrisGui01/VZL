@@ -40,12 +40,12 @@ Optional dependency:
 $ git clone -b release --single-branch https://codeberg.org/09CrisGui01/VZL --depth 2
 ```
 
-2. Run the tests: 
-    A. With `make`:
+2. Run the tests:  
+    - With `make`:
     ```bash
     $ make test
     ```
-    B. Without `make`:
+    - Without `make`:
     ```bash
     $ gcc -o test ./test/all.c && ./test
     ```
