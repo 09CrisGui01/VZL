@@ -1,7 +1,7 @@
 # VZL 
 ![Development Status](https://img.shields.io/badge/Development%2520Status-Active-green?style=for-the-badge&logo=github&label=Status)
 ![Static Badge](https://img.shields.io/badge/Version-0.1.0--alpha-blue?style=for-the-badge)
-%%Introduction 50-100 words%%
+<!--Introduction 50-100 words-->
 
 ## Table of Content
 - [Modules](#modules)
