@@ -17,12 +17,12 @@
 - [License](#license)
 
 ## Modules
-| Name            | Description                            | Documentation |
-|-----------------|----------------------------------------|---------------|
-| `vzl-error`     | Declare, handle and catch errors.      |                |
-| `vzl-structure` | Data structures implementations.       |                |
-| `vzl-algorithm` | Algorithm to work with data structures.|                |
-| `vzl-string`    | String implementation and handling.    |                |
+| Name        | Description                            | Documentation |
+|-------------|----------------------------------------|---------------|
+| `error`     | Declare, handle and catch errors.      |               |
+| `structure` | Data structures implementations.       |               |
+| `algorithm` | Algorithm to work with data structures.|               |
+| `string`    | String implementation and handling.    |               |
 
 ## Requirements
 > if you are using the docker version, no dependency is require.
